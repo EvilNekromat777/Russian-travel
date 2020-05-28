@@ -1,0 +1,8 @@
+.place__view {
+  max-width: 472px;
+}
+@media screen and (max-width: 1024px) {
+  .place__view {
+    max-width: 448px;
+  }
+}

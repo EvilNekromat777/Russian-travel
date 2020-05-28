@@ -1,0 +1,10 @@
+@import url(./__description_padding_big/place__description_padding_big.css);
+@import url(./__description_padding_small/place__description_padding_small.css);
+.place__description {
+  max-width: 472px;
+}
+@media screen and (max-width: 1024px) {
+  .place__description {
+    max-width: 448px;
+  }
+}

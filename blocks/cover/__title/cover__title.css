@@ -10,6 +10,12 @@
   margin-bottom: 32px;
   max-width: 540px;
 }
+@media screen and (max-width: 520px) {
+  .cover__title {
+    font-size: 52px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .cover__title {
     font-size: 32px;

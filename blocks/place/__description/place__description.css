@@ -2,9 +2,11 @@
 @import url(./__description_padding_small/place__description_padding_small.css);
 .place__description {
   max-width: 472px;
+  border: solid 1px red;
 }
 @media screen and (max-width: 1024px) {
   .place__description {
     max-width: 448px;
+    border: solid 1px red;
   }
 }

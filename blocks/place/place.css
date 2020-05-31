@@ -13,6 +13,7 @@
   grid-gap: 40px;
   margin-bottom: 80px;
   justify-content: space-between;
+  border: solid 1px red;
 }
 .place:last-of-type {
   margin-bottom: 0;
@@ -32,7 +33,6 @@
 @media screen and (max-width: 320px) {
   .place {
     grid-gap: 32px;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     margin-bottom: 48px;
   }
 }

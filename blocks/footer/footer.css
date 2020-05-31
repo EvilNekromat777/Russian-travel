@@ -19,15 +19,15 @@
     max-width: 720px;
   }
 }
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 570px) {
   .footer {
     max-width: 530px;
+    display: block;
   }
 }
 
 @media screen and (max-width: 320px) {
   .footer {
-    display: block;
     max-width: 186px;
     margin-left: 16px;
     margin-bottom: 24px;

@@ -1,9 +1,0 @@
-.place__description_padding_small {
-  padding-top: 30px;
-}
-@media screen and (max-width: 768px) {
-  .place__description_padding_small {
-    padding-top: 0;
-  }
-}
-
